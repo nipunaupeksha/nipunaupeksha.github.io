@@ -1,3 +1,5 @@
+@font-face { font-family: valorant; 
+			 src: url('../fonts/valorant-font.ttf'); } 
 @keyframes seq-preloader {
 	50% {
 		opacity: 1;
