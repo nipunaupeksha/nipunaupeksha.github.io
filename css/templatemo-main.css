@@ -293,7 +293,7 @@ nav a:hover::before {
 	margin-left: 40px;
 }
 
-.social-icons i {
+.social-icons a i {
 	color: white;
 	font-size: 20px;
 	padding: 6px;
@@ -859,7 +859,7 @@ nav a:hover::before {
 		/*display: none;*/
 	}
 
-	.social-icons i {
+	.social-icons a i {
 		color: white;
 		font-size: 12px;
 		padding: 2px;
