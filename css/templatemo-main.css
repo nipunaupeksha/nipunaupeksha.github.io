@@ -393,7 +393,7 @@ nav a:hover::before {
 
 .first-content .contact-info {
 	text-align: center;
-	margin-top: 15px;
+	margin-top: 10px;
 	margin-left: 5px;
 }
 
@@ -796,7 +796,7 @@ nav a:hover::before {
 		max-width: 195px;
 		float: none;
 		margin-right: 0px;
-		margin-bottom: 30px;
+		margin-bottom: 10px;
 	}
 
 	.third-content .first-section {
@@ -871,7 +871,7 @@ nav a:hover::before {
 	}
 
 	.first-content h2 {
-		font-size: 25px;
+		font-size: 20px;
 		text-transform: uppercase;
 		font-weight: 700;
 		color: #fff;
@@ -897,7 +897,7 @@ nav a:hover::before {
 
 	.first-content em {
 		font-style: normal;
-		font-size: 20px;
+		font-size: 17px;
 		line-height: 21px;
 		font-weight: 0.1;
 	}
