@@ -1,5 +1,9 @@
-@font-face { font-family: "valorant"; 
-			 src: url('../fonts/valorant-font.ttf'); } 
+@font-face {
+font-family: 'valorant';
+font-style: normal;
+font-weight: normal;
+src: local('VALORANT Regular'), url('../fonts/Valorant Font.woff') format('woff');
+}
 
 @keyframes seq-preloader {
 	50% {
