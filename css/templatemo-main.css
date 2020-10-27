@@ -848,21 +848,22 @@ nav a:hover::before {
 
 	nav ul,
 	.social-icons {
-		text-align: center;
+		text-align: left;
 		margin-left: 0px;
 	}
 
 
 	nav ul li em {
-		font-size: 8px;
+		font-size: 10px;
 		height: 30px;
 		/*display: none;*/
 	}
 
-	.social-icons a i {
+	.social-icons a i,.social-icons a {
 		color: white;
-		font-size: 8px;
-		padding: 2px;
+		font-size: 14px;
+		padding: 10px;
+		margin-left:10px;
 	}
 
 	/*
