@@ -1,8 +1,8 @@
 @font-face {
-font-family: 'valorant';
-font-style: normal;
-font-weight: normal;
-src: local('VALORANT Regular'), url('../fonts/Valorant Font.woff') format('woff');
+	font-family: 'valorant';
+	font-style: normal;
+	font-weight: normal;
+	src: local('VALORANT Regular'), url('../fonts/Valorant Font.woff') format('woff');
 }
 
 @keyframes seq-preloader {
@@ -390,25 +390,28 @@ nav a:hover::before {
 	float: left;
 	margin-right: 35px;
 }
+
 .first-content .contact-info {
 	text-align: center;
-	margin-top:15px;
-	margin-left:5px;
-}
-.first-content .contact-info-2 {
-	margin-bottom:30px;
-}
-.first-content .contact-info i{
-	text-align:center;
-	font-size: 16px;
-	color: white;
-	margin-left:5px;
+	margin-top: 15px;
+	margin-left: 5px;
 }
 
-.first-content .contact-info i span{
+.first-content .contact-info-2 {
+	margin-bottom: 30px;
+}
+
+.first-content .contact-info i {
+	text-align: center;
+	font-size: 16px;
+	color: white;
+	margin-left: 5px;
+}
+
+.first-content .contact-info i span {
 	font-size: 13px;
 	color: white;
-	margin-left:5px;
+	margin-left: 5px;
 }
 
 
@@ -859,11 +862,44 @@ nav a:hover::before {
 		/*display: none;*/
 	}
 
-	.social-icons a i,.social-icons a {
+	.social-icons a i,
+	.social-icons a {
 		color: white;
 		font-size: 14px;
 		padding: 10px;
-		margin-left:10px;
+		margin-left: 10px;
+	}
+
+	.first-content h2 {
+		font-size: 25px;
+		text-transform: uppercase;
+		font-weight: 700;
+		color: #fff;
+		letter-spacing: 0.5px;
+		border-bottom: 2px solid #fff;
+		display: inline-block;
+		padding-bottom: 5px;
+		margin-bottom: 5px;
+		margin-top: 0px;
+	}
+
+	.first-content p {
+		font-family: 'Poppins', sans-serif;
+		color: #fff;
+		font-size: 16px;
+		/*text-transform: uppercase;*/
+		font-weight: 300;
+		/*letter-spacing: 2px;*/
+		line-height: 20px;
+		margin-top:10px;
+		margin-bottom: 5px;
+	}
+
+	.first-content em {
+		font-style: normal;
+		font-size: 20px;
+		line-height: 21px;
+		font-weight: 0.1;
 	}
 
 	/*
@@ -904,7 +940,7 @@ nav a:hover::before {
 }
 
 @media(max-width: 450px) {
-	
+
 	nav ul {
 		margin-top: 20px;
 	}
