@@ -175,9 +175,9 @@ nav {
 	top: 5vh;
 	bottom: 5vh;
 	text-align: center;
-	/*background: rgba(255, 46, 55, 0.7);*/
-	 background: rgb(195,20,50);
-background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.10126048710499824) 100%); 
+	background: rgba(0, 0, 0, 0.5);
+	 /*background: rgb(195,20,50);
+background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.10126048710499824) 100%); */
 
 
 	position: fixed;
@@ -329,9 +329,10 @@ nav a:hover::before {
 	left: 30%;
 	top: 5%;
 	bottom: 5%;
-	/*background: rgba(255, 46, 55, 0.7);*/
-	 background: rgb(195,20,50);
-background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.10126048710499824) 100%); 
+	background: rgba(0, 0, 0, 0.5);
+	/* 
+	background: rgb(195,20,50);
+background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.10126048710499824) 100%); */
 
 
 
