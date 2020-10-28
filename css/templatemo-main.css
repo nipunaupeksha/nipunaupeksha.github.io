@@ -387,7 +387,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 
 .main-btn a:hover {
 	background-color: #fff;
-	color: #232323 !important;
+	color: #c0c0c0 !important;
 }
 
 
@@ -495,7 +495,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 	font-size: 13px;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	color: #232323;
+	color: #c0c0c0;
 	text-decoration: none;
 	transition: all 0.5s;
 }
@@ -835,7 +835,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 }
 
 .fifth-content button:hover {
-	color: #232323;
+	color: #c0c0c0;
 	background-color: #fff;
 }
 
