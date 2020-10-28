@@ -175,7 +175,6 @@ html {
 body {
 	overflow: hidden;
 	font-size: 100%;
-	color:#c0c0c0;
 }
 
 nav {
@@ -254,7 +253,6 @@ nav a,
 nav a:visited,
 nav a:active {
 	color: #fff;
-	/*changed*/
 }
 
 nav a {
