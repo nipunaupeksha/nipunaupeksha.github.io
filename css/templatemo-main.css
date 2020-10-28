@@ -847,7 +847,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 @media (max-width: 749px) {
 
 	nav {
-		width: 15vh;
+		width: 15vw;
 	}
 
 	nav .logo {
@@ -855,7 +855,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 	}
 
 	nav .mini-logo {
-		margin-top: 60px;
+		margin-top: 40px;
 		display: block;
 	}
 
@@ -875,9 +875,9 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 	.social-icons a i,
 	.social-icons a {
 		color: white;
-		font-size: 14px;
-		padding: 10px;
-		margin-left: 10px;
+		font-size: 10px;
+		padding: 2px;
+		/*margin-left: 2px;*/
 	}
 
 	.first-content h2 {
@@ -950,6 +950,18 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 }
 
 @media(max-width: 450px) {
+	nav {
+		width: 15vh;
+	}
+	
+	.social-icons a i,
+	.social-icons a {
+		color: white;
+		font-size: 14px;
+		padding: 10px;
+		margin-left: 10px;
+	}
+
 
 	nav ul {
 		margin-top: 20px;
