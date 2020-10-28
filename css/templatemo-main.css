@@ -129,28 +129,34 @@
 @-webkit-keyframes fillColour {
 	0% {
 		color: #fff;
+		
 	}
 
 	50% {
 		color: #fff;
+		
 	}
 
 	100% {
-		color: #333;
+		color: #c0c0c0;
+		
 	}
 }
 
 @keyframes fillColour {
 	0% {
 		color: #fff;
+		
 	}
 
 	50% {
 		color: #fff;
+		
 	}
 
 	100% {
-		color: #333;
+		color: #c0c0c0;
+		
 	}
 }
 
@@ -263,7 +269,7 @@ nav a {
 nav a.active {
 	/*background-color: #fff;*/
 	margin-top: 5px;
-	color: #232323;
+	color: #c0c0c0;
 }
 
 /*
