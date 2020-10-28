@@ -246,7 +246,7 @@ nav ul li {
 nav a,
 nav a:visited,
 nav a:active {
-	color: #fff;
+	color: #fff;/*changed*/
 }
 
 nav a {
@@ -429,9 +429,9 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 	font-size: 36px;
 	text-transform: uppercase;
 	font-weight: 700;
-	color: #fff;
+	color: #fff;/*changed*/
 	letter-spacing: 0.5px;
-	border-bottom: 2px solid #fff;
+	border-bottom: 2px solid #fff;/*changed*/
 	display: inline-block;
 	padding-bottom: 10px;
 	margin-bottom: 20px;
@@ -440,7 +440,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 
 .first-content p {
 	font-family: 'Poppins', sans-serif;
-	color: #fff;
+	color: #fff;/*changed*/
 	font-size: 25px;
 	/*text-transform: uppercase;*/
 	font-weight: 300;
@@ -795,6 +795,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 	nav ul,
 	.social-icons {
 		margin-left: 25px;
+		margin-top:25px;
 	}
 
 	.first-content {
@@ -863,6 +864,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 	.social-icons {
 		text-align: left;
 		margin-left: 0px;
+		margin-top:20px;
 	}
 
 
