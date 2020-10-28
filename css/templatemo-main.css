@@ -689,6 +689,26 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 	width: 175px !important;
 }
 
+.education-header {
+	color: #fff;
+	font-family:
+		/*'Roboto', sans-serif;*/
+		"valorant";
+	text-align: left;
+}
+
+.educational-header-border {
+	text-decoration: underline;
+}
+
+.educational-details {
+	color: #fff;
+	font-size: 14px;
+	font-family: 'Roboto', sans-serif;
+	;
+	text-align: left;
+}
+
 .fourth-content .item .thumb {
 	position: relative;
 }
@@ -872,8 +892,8 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 	}
 
 	.education-logo {
-		height: 100px !important;
-		width: 100px !important;
+		height: 120px !important;
+		width: 120px !important;
 	}
 
 	.fifth-content #map {
@@ -1016,5 +1036,8 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 
 	nav a {
 		padding: 2px 5px;
+	}
+	.education-header,.educational-details {
+		text-align:center;
 	}
 }
