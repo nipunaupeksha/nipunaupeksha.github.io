@@ -698,6 +698,12 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 	text-align: left;
 }
 
+.certifications{
+	margin-left:10px;
+	margin-top:10px;
+	text-decoration: underline;
+}
+
 .educational-header-border {
 	text-decoration: underline;
 }
