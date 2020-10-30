@@ -397,8 +397,10 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 }
 
 .first-content .author-image img {
-	margin-top: 15px;
-	margin-bottom: 15px;
+	/*margin-top: 15px;
+	margin-bottom: 15px;*/
+	margin-right:40px;
+	margin:0;
 	border-radius: 50%;
 	border: 2px solid #fff;
 	max-width: 100%;
