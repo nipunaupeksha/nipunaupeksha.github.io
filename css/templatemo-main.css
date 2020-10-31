@@ -399,8 +399,8 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 .first-content .author-image img {
 	/*margin-top: 15px;
 	margin-bottom: 15px;*/
-	margin-right:40px;
-	margin:0;
+	margin-right: 40px;
+	margin: 0;
 	border-radius: 50%;
 	border: 2px solid #fff;
 	max-width: 100%;
@@ -690,6 +690,19 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 	width: 175px !important;
 }
 
+.educational-emblem,
+.educational-emblem:visited,
+.educational-emblem:active {
+	font-size: 20px;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	text-align: left;
+}
+
+.educational-emblem em {
+	font-size: 14px;
+}
+
 .education-header {
 	color: #fff;
 	font-family:
@@ -698,9 +711,14 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 	text-align: left;
 }
 
-.certifications{
-	margin-left:10px;
-	margin-top:10px;
+.certifications {
+	margin-left: 10px;
+	margin-top: 10px;
+	text-decoration: underline;
+}
+
+.certifications-1 {
+	margin-top: 10px;
 	text-decoration: underline;
 }
 
@@ -712,7 +730,6 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 	color: #fff;
 	font-size: 14px;
 	font-family: 'Roboto', sans-serif;
-	;
 	text-align: left;
 }
 
@@ -1044,7 +1061,13 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 	nav a {
 		padding: 2px 5px;
 	}
-	.education-header,.educational-details {
-		text-align:center;
+
+	.education-header,
+	.educational-details {
+		text-align: center;
+	}
+
+	.educational-emblem {
+		text-align: center;
 	}
 }
