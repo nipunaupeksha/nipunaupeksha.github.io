@@ -692,7 +692,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 
 .educational-emblem,
 .educational-emblem:visited,
-.educational-emblem:active {
+.educational-emblem:active,.educational-emblem a{
 	font-size: 20px;
 	color: white;
 	font-family: 'Roboto', sans-serif;
