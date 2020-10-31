@@ -711,6 +711,13 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 	text-align: left;
 }
 
+.education-header-1 {
+	font-size:20px;
+	color: #fff;
+	font-family:
+		'Roboto', sans-serif;
+	text-align: left;
+}
 .certifications {
 	margin-left: 10px;
 	margin-top: 10px;
@@ -1062,7 +1069,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 		padding: 2px 5px;
 	}
 
-	.education-header,
+	.education-header,education-header-1
 	.educational-details {
 		text-align: center;
 	}
