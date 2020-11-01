@@ -1002,6 +1002,11 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 
 }
 
+.contact100-form-btn input{
+	font-family:"valorant";
+	font-size:16px;
+}
+
 /*---------------------------------------------*/
 .input100 {
 	font-family: 'Roboto', sans-serif;
