@@ -1287,15 +1287,15 @@ textarea.input100 {
 	.social-icons a i,
 	.social-icons a {
 		color: white;
-		font-size: 8px;
+		font-size: 10px;
 		padding: 2px;
 		/*margin-left: 2px;*/
 	}
 
 	.cv-download button {
 		color: black;
-		font-size: 10px;
-		padding: 2px;
+		font-size: 8px;
+		padding: 1px;
 	}
 
 	.first-content h2 {
