@@ -1287,7 +1287,7 @@ textarea.input100 {
 	.social-icons a i,
 	.social-icons a {
 		color: white;
-		font-size: 10px;
+		font-size: 8px;
 		padding: 2px;
 		/*margin-left: 2px;*/
 	}
@@ -1369,6 +1369,10 @@ textarea.input100 {
 	.contact100-form {
 		padding: 43px 15px 57px 117px;
 	}
+	
+	.label-input100 {
+		font-size: 12px;
+	}
 }
 
 @media(max-width: 450px) {
@@ -1419,6 +1423,7 @@ textarea.input100 {
 
 	.label-input100 {
 		text-align: left;
+		font-size: 12px;
 		position: unset;
 		top: unset;
 		left: unset;
