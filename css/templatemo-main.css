@@ -844,7 +844,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 	line-height: 40px;
 	height: 40px;
 	width: 100%;
-	margin-bottom: 25px;
+	/*margin-bottom: 25px;*/
 }
 
 .fifth-content textarea {
@@ -861,7 +861,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 	max-height: 220px;
 	width: 100%;
 	max-width: 100%;
-	margin-bottom: 25px;
+	/*margin-bottom: 25px;*/
 }
 
 .fifth-content button {
