@@ -1247,6 +1247,10 @@ textarea.input100 {
 		visibility: visible;
 		opacity: 1;
 	}
+	
+	.contact100-form-title-2{
+		font-size: 15px;
+	}
 
 }
 
@@ -1373,6 +1377,9 @@ textarea.input100 {
 	.label-input100 {
 		font-size: 12px;
 	}
+	.contact100-form-title-2{
+		font-size:12px;
+	}
 }
 
 @media(max-width: 450px) {
@@ -1434,5 +1441,8 @@ textarea.input100 {
 		text-align: center;
 		margin-left: 0px;
 		margin-top: 20px;
+	}
+	.contact100-form-title-2{
+		font-size: 8px;
 	}
 }
