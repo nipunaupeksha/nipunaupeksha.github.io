@@ -196,7 +196,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 }
 
 nav em {
-	font-family: 'Roboto', sans-serif; /*font-changed*/
+	font-family: 'valorant';
 	font-style: normal;
 	margin-left: 5px;
 	font-size: 18px;
@@ -312,7 +312,7 @@ nav a:hover::before {
 }
 
 .cv-download button {
-	font-family: 'Roboto', sans-serif; /*font-changed*/
+	font-family: 'valorant';
 	font-size: 12px;
 	padding: 6px;
 }
@@ -449,7 +449,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 
 .first-content h2 {
 	font-size: 36px;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	font-weight: 700;
 	color: #fff;
 	/*changed*/
@@ -545,7 +545,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 
 .second-content h2 {
 	font-size: 36px;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	font-weight: 700;
 	color: #fff;
 	letter-spacing: 0.5px;
@@ -575,7 +575,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 	border: 2px solid #fff;
 	padding: 8px 15px;
 	font-size: 13px;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	letter-spacing: 1px;
 	color: #fff;
 	text-decoration: none;
@@ -638,7 +638,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 
 .third-content h2 {
 	font-size: 24px;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	font-weight: 700;
 	color: #fff;
 	letter-spacing: 0.5px;
@@ -1309,7 +1309,7 @@ textarea.input100 {
 
 	.first-content h2 {
 		font-size: 20px;
-		text-transform: uppercase;
+		/*text-transform: uppercase;*/
 		font-weight: 700;
 		color: #fff;
 		letter-spacing: 0.5px;
