@@ -196,7 +196,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 }
 
 nav em {
-	font-family: "valorant";
+	font-family: 'Roboto', sans-serif; /*font-changed*/
 	font-style: normal;
 	margin-left: 5px;
 	font-size: 18px;
@@ -312,7 +312,7 @@ nav a:hover::before {
 }
 
 .cv-download button {
-	font-family: "valorant";
+	font-family: 'Roboto', sans-serif; /*font-changed*/
 	font-size: 12px;
 	padding: 6px;
 }
@@ -600,7 +600,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 
 .third-content .first-section .left-content h2,
 .third-content .second-section .right-content h2 {
-	font-family: "valorant";
+	font-family: 'Roboto', sans-serif; /*font-changed*/
 }
 
 .third-content .first-section .left-content p,
@@ -722,7 +722,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 	color: #fff;
 	font-family:
 		/*'Roboto', sans-serif;*/
-		"valorant";
+		'Roboto', sans-serif; /*font-changed*/
 	text-align: left;
 }
 
@@ -887,7 +887,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 
 
 .author-name {
-	font-family: "valorant";
+	font-family: 'Roboto', sans-serif; /*font-changed*/
 }
 
 
@@ -931,7 +931,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 }
 
 .contact100-form-title-1 {
-	font-family: 'valorant';
+	font-family: 'Roboto', sans-serif; /*font-changed*/
 	font-size: 25px;
 	color: #fff;
 	line-height: 1.2;
@@ -988,7 +988,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 }
 
 .label-input100 {
-	font-family: 'valorant';
+	font-family: 'Roboto', sans-serif; /*font-changed*/
 	/*'Roboto', sans-serif;*/
 	font-size: 15px;
 	color: #fff;
@@ -1003,7 +1003,7 @@ background: linear-gradient(17deg, rgba(195,20,50,1) 0%, rgba(0,0,0,0.1012604871
 }
 
 .contact100-form-btn input{
-	font-family:"valorant";
+	font-family:'Roboto', sans-serif; /*font-changed*/
 	font-size:16px;
 }
 
