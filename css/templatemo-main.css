@@ -311,10 +311,14 @@ nav a:hover::before {
 	text-align: left;
 }
 
-.cv-download button {
+.cv-download button,.cv-download button a {
 	font-family: 'valorant';
 	font-size: 12px;
 	padding: 6px;
+}
+
+.cv-download-a{
+	color:black !important;
 }
 
 .social-icons a i {
@@ -1301,10 +1305,14 @@ textarea.input100 {
 		/*margin-left: 2px;*/
 	}
 
-	.cv-download button {
-		color: black;
+	.cv-download button, .cv-download button a {
+		color: black !important;
 		font-size: 8px;
 		padding: 1px;
+	}
+
+	.cv-download-a, .cv-download-a:visited{
+		color:black !important;
 	}
 
 	.first-content h2 {
